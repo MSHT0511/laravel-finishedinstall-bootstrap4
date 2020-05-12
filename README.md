@@ -1,5 +1,5 @@
-# laravel-homestead-initial-project
-laravel homeseteadの初期状態（何も触ってない状態）これを複製する予定。
+# laravel-finishedinstall-bootstrap4
+composer laravel/uiを用いて、bootstrap4のインストールまでが完了した状態。
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
